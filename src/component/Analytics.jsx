@@ -13,6 +13,8 @@ const Analytics = () => {
                         mx-auto md:mx-0 py-3">Get Started</button>
             </div>
 
+
+
         </div>
     </div>
   )
